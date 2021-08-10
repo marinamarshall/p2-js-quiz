@@ -18,6 +18,8 @@ p {
 
 h1, h2, h3 {
     padding: 2rem;
+    text-align: center;
+    margin:0 auto;
 }
 
 .option-container {
@@ -77,4 +79,12 @@ h1, h2, h3 {
     text-align: center;
     font-size: 5rem;
     margin-left: 1rem;
+}
+
+#score-area {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2rem;
+    font-size: 2.4rem;
 }
