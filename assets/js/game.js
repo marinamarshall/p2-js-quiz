@@ -219,6 +219,14 @@ let progressInnerDiv = document.getElementById("progressInnerDiv");
 // Get reference to questionCounter id
 let questionCounterDisplay = document.getElementById("questionCounter");
 
+// Get reference to quiz container, question, prefixes, options
+let quizContainer = document.getElementById("quiz-container");
+let question = document.getElementById("question");
+let questionPrefix = document.getElementsByClassName("prefix");
+// Options needs to be converted from an HTML collection to an array
+let options = Array.from(document.getElementsByClassName("option"));
+
+
 function beginQuiz() {}
 function getQuestion() {}
 function removeClass() {}
