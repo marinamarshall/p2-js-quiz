@@ -31,5 +31,11 @@ h1, h2, h3 {
     border: 0.1rem solid rgb(46, 71, 87);
     border-radius: 0.5rem;
     background-color: rgba(255, 255, 255, 0.5);
+}
 
+.option-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1rem 0 rgba(92, 175, 176, 0.5);
+    transform: translate(-0.1rem);
+    transition: transform 200ms;
 }
