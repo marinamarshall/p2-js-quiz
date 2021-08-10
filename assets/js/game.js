@@ -211,7 +211,11 @@ let myQuestions = [
         answer: 2
     }
     ];
-    
+
+// Get references to progress bar elements
+let progressOuterDiv = document.getElementById("progressOuterDiv");
+let progressInnerDiv = document.getElementById("progressInnerDiv");
+
 function beginQuiz() {}
 function getQuestion() {}
 function removeClass() {}
