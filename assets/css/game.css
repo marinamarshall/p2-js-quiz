@@ -53,3 +53,10 @@ h1, h2, h3 {
     padding: 1rem;
     color: #3a3a3a;
 }
+
+#letUserKnowInteractively {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 4rem;
+}
