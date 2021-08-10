@@ -1,3 +1,7 @@
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/font-size */
+/* https://teamtreehouse.com/community/what-is-the-difference-between-and-root-functionalities */
+
+/* Make root font size 10px*/
 :root {
     font-size: 62.5%;
     background-color: rgba(139, 190, 177, 0.3);
@@ -21,6 +25,8 @@ h1,h2 {
     margin-right: 2rem;
     font-size: 7.2rem;
 }
+
+/* https://www.freecodecamp.org/news/learn-css-flexbox/ */
 
 .container {
     display: flex;
