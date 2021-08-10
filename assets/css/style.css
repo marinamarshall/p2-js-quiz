@@ -15,5 +15,9 @@ h1,h2 {
     font-size: 5.4rem;
     width: 100%;
     margin-bottom: 3rem;
+}
 
+.fa-flask {
+    margin-top: 2rem;
+    font-size: 7.2rem;
 }
