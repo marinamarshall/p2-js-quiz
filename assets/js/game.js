@@ -216,6 +216,9 @@ let myQuestions = [
 let progressOuterDiv = document.getElementById("progressOuterDiv");
 let progressInnerDiv = document.getElementById("progressInnerDiv");
 
+// Get reference to questionCounter id
+let questionCounterDisplay = document.getElementById("questionCounter");
+
 function beginQuiz() {}
 function getQuestion() {}
 function removeClass() {}
