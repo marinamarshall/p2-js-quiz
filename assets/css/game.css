@@ -72,3 +72,9 @@ h1, h2, h3 {
     width: 10%;
     margin: 0 auto;
 }
+
+.score-display {
+    text-align: center;
+    font-size: 5rem;
+    margin-left: 1rem;
+}
