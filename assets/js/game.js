@@ -226,6 +226,10 @@ let questionPrefix = document.getElementsByClassName("prefix");
 // Options needs to be converted from an HTML collection to an array
 let options = Array.from(document.getElementsByClassName("option"));
 
+// Get references to correct and incorrect scores
+let correctScoreDisplay = document.getElementById("correct-score");
+let incorrectScoreDisplay = document.getElementById("incorrect-score");
+
 
 function beginQuiz() {}
 function getQuestion() {}
