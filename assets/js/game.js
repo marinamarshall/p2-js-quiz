@@ -230,6 +230,14 @@ let options = Array.from(document.getElementsByClassName("option"));
 let correctScoreDisplay = document.getElementById("correct-score");
 let incorrectScoreDisplay = document.getElementById("incorrect-score");
 
+// Set baseline parameters that game will begin with
+let questionCounter = 0;
+let score = 0;
+let currentQuestion = {};
+let availableQuestions = [];
+let acceptingSubmissions = false;
+const maxQuestions = 10;
+
 
 function beginQuiz() {}
 function getQuestion() {}
