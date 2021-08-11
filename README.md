@@ -12,6 +12,10 @@ Build an online quiz that is a fun game/challenge. The target audience is Veteri
 
 ### The Scope Plane
 
+It is a multiple choice quiz layout, the user must choose one option. The quiz will assess correct and incorrect answers and give the user this feedback.
+
+Potential future releases could include the addition of reasons behind the correct answer being correct and a timer feature so that the user has to manage their time like a real exam. The test could be broken down further into specific modules that the student could choose what to be tested on.
+
 ### The Structure Plane
 
 ### The Skeleton Plane
