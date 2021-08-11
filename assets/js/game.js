@@ -264,6 +264,10 @@ function getQuestion() {
     } else {
         // Get random question from array
         const questionNumber = Math.floor(Math.random() * availableQuestions.length);
+        // Declare what value currentQuestion holds
+        currentQuestion = availableQuestions[questionNumber];
+        // Display question to the user
+        question.innerText = currentQuestion.question;
     }
 }
 function removeClass() {}
