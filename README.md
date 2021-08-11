@@ -23,3 +23,11 @@
 ## Credits
 
 ## Deployment
+
+1. Go to Github.com.
+2. Select the repository to be deployed.
+3. At the top of the repository on the right hand side, click the settings tab.
+4. Scroll down to the "Github Pages" section and change the source branch to "master".
+5. Click save.
+6. Refresh the page.
+7. Copy the live website link provided.
