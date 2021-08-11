@@ -79,6 +79,16 @@ Neutral colours are chosen so that the user doesn't get distracted by background
 ### Return Home/Play Again Buttons
 
 ## Credits
+### Acknowledgements
+### Content and Media
+
+## Testing and Bugs
+ - HTML
+ - CSS
+ - JavaScript
+
+ ## Bugs Fixed
+ ## Further Testing
 
 ## Deployment
 
