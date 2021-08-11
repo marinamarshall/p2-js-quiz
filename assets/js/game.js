@@ -274,6 +274,11 @@ function getQuestion() {
             const number = option.dataset["number"];
             option.innerText = currentQuestion["option" + number];
         })
+
+        // Ensure to remove question asked so it won't be repeated
+        availableQuestions.splice(questionNumber, 1);
+        // At this point, we will allow the user to answer
+        acceptingSubmissions = true;
     }
 }
 function removeClass() {}
