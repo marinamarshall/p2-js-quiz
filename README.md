@@ -71,6 +71,13 @@ Neutral colours are chosen so that the user doesn't get distracted by background
 
 ## Features
 
+### "Play Game" Button
+### Options
+### Progress Bar
+### Question Counter
+### Score Area
+### Return Home/Play Again Buttons
+
 ## Credits
 
 ## Deployment
