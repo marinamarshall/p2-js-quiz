@@ -251,7 +251,18 @@ function beginQuiz() {
     getQuestion();
 }
 
-function getQuestion() {}
+/**
+ * This function determines when to get a new question for the user
+ * and when to end the game
+ * 
+ */
+function getQuestion() {
+    questionCounter++;
+
+    if(questionCounter >= maxQuestions || availableQuestions.length == 0) {
+        endGame();
+    }
+}
 function removeClass() {}
 function increaseProgressBar() {}
 function incrementCorrectScoreDisplay() {}
