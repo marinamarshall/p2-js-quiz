@@ -18,6 +18,8 @@ Potential future releases could include the addition of reasons behind the corre
 
 ### The Structure Plane
 
+This is a three-page quiz. The homepage will display the button to be clicked to begin the quiz. This click will take the user to the game page that will display a question and options in MCQ style. There is an interactive display that counts the questions asked and the amount of correct and incorrect answers. Once the user has completed the game, they will be taken to the end page where they will be given their score and a choice to go back to the homepage or to play again.
+
 ### The Skeleton Plane
 
 ### The Surface Plane
