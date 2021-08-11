@@ -12,6 +12,17 @@ The design of the quiz ensures that the user can easily navigate the content and
 
 Once the quiz is finished, the user is informed of their score and they have a choice to either play another game or to return to the homepage.
 
+## User Stories
+* First Time Visitor Goals
+ *   
+ * 
+ * 
+
+* Returning Visitor Goals
+ * 
+ * 
+ * 
+
 ## User Experience (UX)
 
 ### The Strategy Plane
