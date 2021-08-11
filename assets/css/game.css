@@ -56,12 +56,19 @@ h1, h2, h3 {
     color: #3a3a3a;
 }
 
+.score-display {
+    text-align: center;
+    font-size: 5rem;
+    margin-left: 1rem;
+}
+
 #letUserKnowInteractively {
     display: flex;
     justify-content: center;
     text-align: center;
     margin-top: 4rem;
 }
+
 
 #progressOuterDiv {
     border: 0.1rem solid rgb(72, 96, 115);
@@ -71,14 +78,8 @@ h1, h2, h3 {
 
 #progressInnerDiv {
     background-color: rgba(92, 175, 176, 0.8);
-    width: 10%;
-    margin: 0 auto;
-}
-
-.score-display {
-    text-align: center;
-    font-size: 5rem;
-    margin-left: 1rem;
+    width:10%;
+    height:7rem;
 }
 
 #score-area {

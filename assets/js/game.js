@@ -212,9 +212,9 @@ let myQuestions = [
     }
     ];
 
-// Get references to progress bar elements
+// Get reference to progress bar elements
 let progressOuterDiv = document.getElementById("progressOuterDiv");
-let progressInnerDiv = document.getElementById("progressInnerDiv");
+let progressInnerDiv = document.getElementById("progressInnerDiv");    
 
 // Get reference to questionCounter id
 let questionCounterDisplay = document.getElementById("questionCounter");
@@ -322,14 +322,25 @@ options.forEach(option => {
         function removeClass() {
             option.parentNode.setAttribute("style", "background-color: #fffffff");
         }
-    })
+
+        increaseProgressBar();
+
+    });
 })
 
+/**
+ * This function will update the progress bar as the user moves through the quiz
+ */
+let width = 10;
+function increaseProgressBar() {
+    let progressBar = document.getElementById("progressInnerDiv");
+    if(width < 100) {
+        width +=10;
+        progressBar.style.width = width + "%";
+    }
 
+}
 
-
-
-function increaseProgressBar() {}
 function incrementCorrectScoreDisplay() {}
 function incrementIncorrectScoreDisplay() {}
 function endGame() {}
