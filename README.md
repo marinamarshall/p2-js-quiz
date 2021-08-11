@@ -4,6 +4,14 @@
 
 ## About the Quiz
 
+Simple Minds is a three page quiz that begins on the home page. When the "play game" button is clicked, the user is taken to the game page. 
+
+The quiz is a fun, interactive multiple choice questionaire that is designed for Veterinary and Veterinary Nursing students from years 1-5. The questions are a mixture of course content from all of the years and test the students' general knowledge on several different topics.
+
+The design of the quiz ensures that the user can easily navigate the content and the interactive design keeps the user engaged while updating them on their current score and how many questions they have until the quiz is completed.
+
+Once the quiz is finished, the user is informed of their score and they have a choice to either play another game or to return to the homepage.
+
 ## User Experience (UX)
 
 ### The Strategy Plane
