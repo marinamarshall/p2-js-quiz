@@ -238,14 +238,24 @@ let availableQuestions = [];
 let acceptingSubmissions = false;
 const maxQuestions = 10;
 
-
+/**
+ * This function will start the game with a new array of questions
+ * It will set the question counter and score to zero to start
+ * It will call the getQuestion function
+ */
 function beginQuiz() {
     // Make a copy of myQuestions array so that we can pick new questions each time
     availableQuestions = [...myQuestions];
+    questionCounter = 0;
+    score = 0;
+    getQuestion();
 }
+
 function getQuestion() {}
 function removeClass() {}
 function increaseProgressBar() {}
 function incrementCorrectScoreDisplay() {}
 function incrementIncorrectScoreDisplay() {}
 function endGame() {}
+
+beginQuiz();
