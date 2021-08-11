@@ -294,11 +294,14 @@ options.forEach(option => {
 
         // Apply colour indicators for correctness/incorrectness and increase score
         if(selectedAnswer == currentQuestion.answer) {
-            score++;
             option.parentNode.setAttribute("style", "background-color: #90ee90");
-        } else if(selectedAnswer !== currentQuestion.answer) {
             score++;
+            setTimeout(getQuestion, 2000);
+
+        } else if(selectedAnswer !== currentQuestion.answer) {
             option.parentNode.setAttribute("style", "background-color: #ff0000");
+            score++;
+            setTimeout(getQuestion, 2000);
         }
     })
 })
