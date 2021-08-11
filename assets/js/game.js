@@ -282,10 +282,15 @@ function getQuestion() {
     }
 }
 
+// Add event listener to options
 options.forEach(option => {
     option.addEventListener("click", e => {
         if(!acceptingSubmissions) return;
         acceptingSubmissions = false;
+
+        // Get reference to option clicked
+        const selectedOption = e.target;
+        const selectedAnswer = selectedOption.dataset["number"];
     })
 })
 function removeClass() {}
