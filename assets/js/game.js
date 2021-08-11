@@ -263,7 +263,7 @@ function getQuestion() {
     // Display question count out of max questions
     questionCounterDisplay.innerText = `${questionCounter}/${maxQuestions}`
 
-    if(questionCounter >= maxQuestions || availableQuestions.length == 0) {
+    if(questionCounter > maxQuestions || availableQuestions.length == 0) {
         endGame();
     } else {
         // Get random question from array
