@@ -46,6 +46,10 @@ This is a three-page quiz.
 
 ### The Skeleton Plane
 
+![screenshot](assets/images/homepage.png)
+![screenshot](assets/images/game.png)
+![screenshot](assets/images/end.png)
+
 The page will have a straightforward layout so that the user will easily find what they are looking for. The user has one option to begin the quiz, taking questions randomly from a bank of questions. The question is displayed and the user is given three choices to answer from. Once the answer is selected, the answer is assessed for correctness/incorrectness.The quiz moves on to the next question until the maximum number of questions has been asked. The user can then choose if they want to play the quiz again or go back to the home page.
 
 ### The Surface Plane
