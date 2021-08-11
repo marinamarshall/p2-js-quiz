@@ -239,7 +239,10 @@ let acceptingSubmissions = false;
 const maxQuestions = 10;
 
 
-function beginQuiz() {}
+function beginQuiz() {
+    // Make a copy of myQuestions array so that we can pick new questions each time
+    availableQuestions = [...myQuestions];
+}
 function getQuestion() {}
 function removeClass() {}
 function increaseProgressBar() {}
