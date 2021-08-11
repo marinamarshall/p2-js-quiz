@@ -249,6 +249,10 @@ function beginQuiz() {
     questionCounter = 0;
     score = 0;
     getQuestion();
+
+    // Set local storage of mostRecentScore
+    // Credit to CI tutor Sean for assisting to get this working 
+    localStorage.setItem("mostRecentScore", 0);
 }
 
 /**
@@ -264,6 +268,7 @@ function getQuestion() {
     questionCounterDisplay.innerText = `${questionCounter}/${maxQuestions}`
 
     if(questionCounter > maxQuestions || availableQuestions.length == 0) {
+        localStorage.setItem("mostRecentScore", score);
         endGame();
     } else {
         // Get random question from array
