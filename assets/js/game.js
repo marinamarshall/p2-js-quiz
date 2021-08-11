@@ -359,6 +359,8 @@ function incrementIncorrectScoreDisplay() {
     document.getElementById("incorrect-score").innerText = ++ previousScore;
 }
 
-function endGame() {}
+function endGame() {
+    window.location.href = "end.html";
+}
 
 beginQuiz();
