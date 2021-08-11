@@ -305,6 +305,7 @@ options.forEach(option => {
             score++;
             setTimeout(getQuestion, 2000);
             setTimeout(removeClass, 2000);
+            incrementCorrectScoreDisplay()
 
         } else if(selectedAnswer !== currentQuestion.answer) {
             option.parentNode.setAttribute("style", "background-color: #ff0000");
@@ -341,8 +342,16 @@ function increaseProgressBar() {
 
 }
 
-function incrementCorrectScoreDisplay() {}
+/**
+ * This function increases the element with the id of correct-score
+ */
+function incrementCorrectScoreDisplay() {
+    let previousScore = document.getElementById("correct-score").innerText;
+    document.getElementById("correct-score").innerText = ++ previousScore;
+}
+
 function incrementIncorrectScoreDisplay() {}
+
 function endGame() {}
 
 beginQuiz();
