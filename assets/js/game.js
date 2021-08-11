@@ -268,6 +268,12 @@ function getQuestion() {
         currentQuestion = availableQuestions[questionNumber];
         // Display question to the user
         question.innerText = currentQuestion.question;
+
+        // Do the same to display options to user
+        options.forEach(option => {
+            const number = option.dataset["number"];
+            option.innerText = currentQuestion["option" + number];
+        })
     }
 }
 function removeClass() {}
