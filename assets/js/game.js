@@ -260,6 +260,8 @@ function beginQuiz() {
  */
 function getQuestion() {
     questionCounter++;
+    // Display question count out of max questions
+    questionCounterDisplay.innerText = `${questionCounter}/${maxQuestions}`
 
     if(questionCounter >= maxQuestions || availableQuestions.length == 0) {
         endGame();
@@ -313,16 +315,17 @@ options.forEach(option => {
             return;
         }
 
+        /**
+         * This function removes the colour from the option the user selected
+         * so the next question doesn't have a colour applied
+         */
         function removeClass() {
             option.parentNode.setAttribute("style", "background-color: #fffffff");
         }
     })
 })
 
-/**
- * This function removes the colour from the option the user selected
- * so the next question doesn't have a colour applied
- */
+
 
 
 
