@@ -281,6 +281,13 @@ function getQuestion() {
         acceptingSubmissions = true;
     }
 }
+
+options.forEach(option => {
+    option.addEventListener("click", e => {
+        if(!acceptingSubmissions) return;
+        acceptingSubmissions = false;
+    })
+})
 function removeClass() {}
 function increaseProgressBar() {}
 function incrementCorrectScoreDisplay() {}
