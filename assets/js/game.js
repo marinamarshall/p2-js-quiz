@@ -305,13 +305,14 @@ options.forEach(option => {
             score++;
             setTimeout(getQuestion, 2000);
             setTimeout(removeClass, 2000);
-            incrementCorrectScoreDisplay()
+            incrementCorrectScoreDisplay();
 
         } else if(selectedAnswer !== currentQuestion.answer) {
             option.parentNode.setAttribute("style", "background-color: #ff0000");
             score++;
             setTimeout(getQuestion, 2000);
             setTimeout(removeClass, 2000);
+            incrementIncorrectScoreDisplay();
         } else {
             return;
         }
@@ -350,7 +351,13 @@ function incrementCorrectScoreDisplay() {
     document.getElementById("correct-score").innerText = ++ previousScore;
 }
 
-function incrementIncorrectScoreDisplay() {}
+/**
+ * This function increases the element with the id of incorrect-score
+ */
+function incrementIncorrectScoreDisplay() {
+    let previousScore = document.getElementById("incorrect-score").innerText;
+    document.getElementById("incorrect-score").innerText = ++ previousScore;
+}
 
 function endGame() {}
 
