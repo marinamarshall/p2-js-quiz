@@ -261,6 +261,9 @@ function getQuestion() {
 
     if(questionCounter >= maxQuestions || availableQuestions.length == 0) {
         endGame();
+    } else {
+        // Get random question from array
+        const questionNumber = Math.floor(Math.random() * availableQuestions.length);
     }
 }
 function removeClass() {}
