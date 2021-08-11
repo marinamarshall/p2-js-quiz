@@ -253,8 +253,10 @@ function beginQuiz() {
 
 /**
  * This function determines when to get a new question for the user
- * and when to end the game
- * 
+ * It displays the options to the user
+ * It applies a colour based on answer correctness
+ * It removes the colour applied and displays the next question
+ * It determines when to end the game
  */
 function getQuestion() {
     questionCounter++;
@@ -292,20 +294,38 @@ options.forEach(option => {
         const selectedOption = e.target;
         const selectedAnswer = selectedOption.dataset["number"];
 
-        // Apply colour indicators for correctness/incorrectness and increase score
+        // Apply colour indicators for correctness/incorrectness
+        // Increase score
+        // Set timeout to delay getting the next question
+        // Remove the colour class applied for correctness/incorrectness
         if(selectedAnswer == currentQuestion.answer) {
             option.parentNode.setAttribute("style", "background-color: #90ee90");
             score++;
             setTimeout(getQuestion, 2000);
+            setTimeout(removeClass, 2000);
 
         } else if(selectedAnswer !== currentQuestion.answer) {
             option.parentNode.setAttribute("style", "background-color: #ff0000");
             score++;
             setTimeout(getQuestion, 2000);
+            setTimeout(removeClass, 2000);
+        } else {
+            return;
+        }
+
+        function removeClass() {
+            option.parentNode.setAttribute("style", "background-color: #fffffff");
         }
     })
 })
-function removeClass() {}
+
+/**
+ * This function removes the colour from the option the user selected
+ * so the next question doesn't have a colour applied
+ */
+
+
+
 function increaseProgressBar() {}
 function incrementCorrectScoreDisplay() {}
 function incrementIncorrectScoreDisplay() {}
