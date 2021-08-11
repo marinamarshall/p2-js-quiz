@@ -291,6 +291,15 @@ options.forEach(option => {
         // Get reference to option clicked
         const selectedOption = e.target;
         const selectedAnswer = selectedOption.dataset["number"];
+
+        // Apply colour indicators for correctness/incorrectness and increase score
+        if(selectedAnswer == currentQuestion.answer) {
+            score++;
+            option.parentNode.setAttribute("style", "background-color: #90ee90");
+        } else if(selectedAnswer !== currentQuestion.answer) {
+            score++;
+            option.parentNode.setAttribute("style", "background-color: #ff0000");
+        }
     })
 })
 function removeClass() {}
