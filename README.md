@@ -26,6 +26,8 @@ The page will have a straightforward layout so that the user will easily find wh
 
 ### The Surface Plane
 
+Neutral colours are chosen so that the user doesn't get distracted by background images and colours. The green colour for the background adds to the user experience without compromising their ability to see what is being asked of them. The font colour has been set to an off-grey/black colour so that it is less harsh to read. The font is set to Times, again so that it is clearly readable and the user can read everything easily.
+
 ## Technologies Used
 
 ## Features
