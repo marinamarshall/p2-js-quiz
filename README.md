@@ -8,6 +8,8 @@
 
 ### The Strategy Plane
 
+Build an online quiz that is a fun game/challenge. The target audience is Veterinary and Veterinary Nursing students from years 1-5. It is a general knowledge quiz that assesses multiple modules from the college course.
+
 ### The Scope Plane
 
 ### The Structure Plane
