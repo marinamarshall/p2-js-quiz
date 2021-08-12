@@ -160,8 +160,8 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 * CSS Flexbox
   * [FreeCodeCamp](https://www.freecodecamp.org/news/learn-css-flexbox/)
   * [Youtube tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=tXIhdp5R7sc)
-  * [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp)
+  * [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 * Breakpoints
   * [Microsoft](https://docs.microsoft.com/en-us/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design)
