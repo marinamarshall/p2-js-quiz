@@ -265,6 +265,7 @@ function beginQuiz() {
 function getQuestion() {
     questionCounter++;
     // Display question count out of max questions
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
     questionCounterDisplay.innerText = `${questionCounter}/${maxQuestions}`;
 
     if(questionCounter > maxQuestions || availableQuestions.length == 0) {
