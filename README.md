@@ -1,7 +1,7 @@
 # Simple Minds Veterinary Quiz
-![screenshot](assets/images/homepage-responsive)
-![screenshot](assets/images/game-responsive)
-![screenshot](assets/images/end-responsive)
+![screenshot](assets/images/homepage-responsive.png)
+![screenshot](assets/images/game-responsive.png)
+![screenshot](assets/images/end-responsive.png)
 
 ## [View the live quiz here](https://marinamarshall.github.io/p2-js-quiz/)
 
