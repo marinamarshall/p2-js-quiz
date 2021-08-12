@@ -123,21 +123,43 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 
 * CSS Flexbox
   * [FreeCodeCamp](https://www.freecodecamp.org/news/learn-css-flexbox/)
+
 * Breakpoints
   * [Microsoft](https://docs.microsoft.com/en-us/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design)
   * [FreeCodeCamp - Media Quiries/Breakpoints](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
+
 * Extra Reading
   * [Sitepoint - arrow functions](https://www.sitepoint.com/javascript-arrow-functions/)
   * [Difference between universal selector and root pseudo class](https://teamtreehouse.com/community/what-is-the-difference-between-and-root-functionalities)
   * [MDN - Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 * Markdown Cheat Sheet
   * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-  
+
 *  Design Elements
   * [FontAwesome](https://fontawesome.com/v5.15/icons/flask?style=solid)
   * [Favicon](https://favicon.io/emoji-favicons/paw-prints/)
   * [Add Favicon to page](https://www.hostinger.com/tutorials/how-to-add-favicon-to-website)
   * [Responsive Design](http://ami.responsivedesign.is/)
+  * [Converting Colours](https://convertingcolors.com/)
+
+* Tutorials
+  * [Written 1](https://coding.degree/javascript-quiz-tutorial/)
+  * [Written 2](https://simplestepscode.com/javascript-quiz-tutorial/)
+  * [Written 3](https://www.sitepoint.com/simple-javascript-quiz/)
+  * [Written 4](https://www.sitepoint.com/simple-javascript-quiz/#demo)
+  
+  
+  * [Video 1](https://www.youtube.com/watch?v=f4fB9Xg2JEY)
+  * [Video 2](https://www.youtube.com/watch?v=LQGTb112N_c)
+  * [Video 3a](https://www.youtube.com/watch?v=rFWbAj40JrQ)
+  * [Video 3b](https://www.youtube.com/watch?v=IK257Ln0MZc)
+  * [Video 3c](https://www.youtube.com/watch?v=zZdQGs62cR8)
+  * [Video 3d](https://www.youtube.com/watch?v=_LYxkClHnV0)
+  * [Video 3e](https://www.youtube.com/watch?v=BOQLbu_Crc0)
+  * [Video 3f](https://www.youtube.com/watch?v=4bctmtuZVcM)
+  * [Video 3g](https://www.youtube.com/watch?v=o3MF_JmQxYg)
+  * [Video 3h](https://www.youtube.com/watch?v=DFhmNLKwwGw)
+  
 
 
 
