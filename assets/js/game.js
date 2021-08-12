@@ -224,6 +224,7 @@ let quizContainer = document.getElementById("quiz-container");
 let question = document.getElementById("question");
 let questionPrefix = document.getElementsByClassName("prefix");
 // Options needs to be converted from an HTML collection to an array
+/* https://stackoverflow.com/questions/35969974/foreach-is-not-a-function-error-with-javascript-array */
 let options = Array.from(document.getElementsByClassName("option"));
 
 // Get references to correct and incorrect scores
@@ -273,6 +274,8 @@ function getQuestion() {
         endGame();
     } else {
         // Get random question from array
+        /* https://stackoverflow.com/questions/43847375/creating-random-questions-and-answers-javascript */
+
         const questionNumber = Math.floor(Math.random() * availableQuestions.length);
         // Declare what value currentQuestion holds
         currentQuestion = availableQuestions[questionNumber];
@@ -307,6 +310,7 @@ options.forEach(option => {
         // Set timeout to delay getting the next question
         // Remove the colour class applied for correctness/incorrectness
         if(selectedAnswer == currentQuestion.answer) {
+            /* https://www.oreilly.com/library/view/javascript-cookbook/9781449390211/ch14.html */
             option.parentNode.setAttribute("style", "background-color: #90ee90");
             score++;
             setTimeout(getQuestion, 2000);
@@ -328,6 +332,7 @@ options.forEach(option => {
          * so the next question doesn't have a colour applied
          */
         function removeClass() {
+            /* https://stackoverflow.com/questions/40380676/javascript-remove-background-color-and-opacity. */
             option.parentNode.setAttribute("style", "background-color: #fffffff");
         }
 
@@ -339,6 +344,11 @@ options.forEach(option => {
 /**
  * This function will update the progress bar as the user moves through the quiz
  */
+/* https://www.w3schools.com/howto/howto_js_progressbar.asp */
+/* https://www.geeksforgeeks.org/creating-progress-bar-using-javascript/ */
+/* https://www.youtube.com/watch?v=4LBRMSk6PLY */
+/* https://stackoverflow.com/questions/50155924/how-to-increment-the-value-of-a-progress-bar-when-press-a-button-javascript/50156098 */
+
 let width = 10;
 function increaseProgressBar() {
     let progressBar = document.getElementById("progressInnerDiv");
@@ -352,6 +362,7 @@ function increaseProgressBar() {
 /**
  * This function increases the element with the id of correctScore
  */
+/* https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+2021_T1/courseware/2d651bf3f23e48aeb9b9218871912b2e/8775beaed6ed403d92318845af971b30/?child=first */
 function incrementCorrectScoreDisplay() {
     let previousScore = document.getElementById("correctScore").innerText;
     document.getElementById("correctScore").innerText = ++ previousScore;
@@ -373,3 +384,22 @@ function endGame() {
 }
 
 beginQuiz();
+
+/* Creating Delay */
+/* https://www.tutorialspoint.com/How-to-delay-a-JavaScript-function-call-using-JavaScript#:~:text=To%20delay%20a%20function%20call%2C%20use%20setTimeout()%20function.&text=functionname%20%E2%88%92%20The%20function%20name%20for,arguments%20passed%20to%20the%20function */
+/* https://www.sitepoint.com/delay-sleep-pause-wait/ */
+
+/* [Video 1](https://www.youtube.com/watch?v=f4fB9Xg2JEY) */
+/* [Video 2](https://www.youtube.com/watch?v=LQGTb112N_c) */
+/* [Video 3a](https://www.youtube.com/watch?v=rFWbAj40JrQ) */
+/* [Video 3b](https://www.youtube.com/watch?v=IK257Ln0MZc) */
+/* [Video 3c](https://www.youtube.com/watch?v=zZdQGs62cR8) */
+/* [Video 3d](https://www.youtube.com/watch?v=_LYxkClHnV0) */
+/* [Video 3e](https://www.youtube.com/watch?v=BOQLbu_Crc0) */
+/* [Video 3f](https://www.youtube.com/watch?v=4bctmtuZVcM) */
+/* [Video 3g](https://www.youtube.com/watch?v=o3MF_JmQxYg) */
+/* [Video 3h](https://www.youtube.com/watch?v=DFhmNLKwwGw) */
+/* https://coding.degree/javascript-quiz-tutorial/ */
+/* https://simplestepscode.com/javascript-quiz-tutorial/ */
+/* https://www.sitepoint.com/simple-javascript-quiz/ */
+/* https://www.sitepoint.com/simple-javascript-quiz/#demo */
