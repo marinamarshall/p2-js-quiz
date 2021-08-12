@@ -92,8 +92,11 @@ Neutral colours are chosen so that the user doesn't get distracted by background
 ### Content and Media
 
 ## Testing and Bugs
- - HTML
- - CSS
+ * HTML
+  * No errors detected.
+  * Two warnings corrected where blank input was detected 
+
+ * CSS
  - JavaScript
 
  ## Bugs Fixed
