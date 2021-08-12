@@ -75,11 +75,11 @@ h3 {
     margin:3rem 0 2rem 2rem;
 }
 
-#correct-score {
+#correctScore {
     color: green;
 }
 
-#incorrect-score {
+#incorrectScore {
     color: red;
 }
 

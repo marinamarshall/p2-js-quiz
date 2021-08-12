@@ -227,8 +227,8 @@ let questionPrefix = document.getElementsByClassName("prefix");
 let options = Array.from(document.getElementsByClassName("option"));
 
 // Get references to correct and incorrect scores
-let correctScoreDisplay = document.getElementById("correct-score");
-let incorrectScoreDisplay = document.getElementById("incorrect-score");
+let correctScoreDisplay = document.getElementById("correctScore");
+let incorrectScoreDisplay = document.getElementById("incorrectScore");
 
 // Set baseline parameters that game will begin with
 let questionCounter = 0;
@@ -349,19 +349,19 @@ function increaseProgressBar() {
 }
 
 /**
- * This function increases the element with the id of correct-score
+ * This function increases the element with the id of correctScore
  */
 function incrementCorrectScoreDisplay() {
-    let previousScore = document.getElementById("correct-score").innerText;
-    document.getElementById("correct-score").innerText = ++ previousScore;
+    let previousScore = document.getElementById("correctScore").innerText;
+    document.getElementById("correctScore").innerText = ++ previousScore;
 }
 
 /**
- * This function increases the element with the id of incorrect-score
+ * This function increases the element with the id of incorrectScore
  */
 function incrementIncorrectScoreDisplay() {
-    let previousScore = document.getElementById("incorrect-score").innerText;
-    document.getElementById("incorrect-score").innerText = ++ previousScore;
+    let previousScore = document.getElementById("incorrectScore").innerText;
+    document.getElementById("incorrectScore").innerText = ++ previousScore;
 }
 
 /**
