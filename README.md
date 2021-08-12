@@ -197,10 +197,13 @@ The font colour has been set to an off-grey/black colour so that it is less hars
   * [Video 3h](https://www.youtube.com/watch?v=DFhmNLKwwGw)
 
 * Change option selection colour correct/incorrect
-  * [oreilly.com](https://www.oreilly.com/library/view/javascript-cookbook/9781449390211/ch14.html)
+  * [Oreilly.com](https://www.oreilly.com/library/view/javascript-cookbook/9781449390211/ch14.html)
   * [StackOverflow](https://stackoverflow.com/questions/40380676/javascript-remove-background-color-and-opacity)
+
+* Creating delay
+  * [Tutorialspoint](https://www.tutorialspoint.com/How-to-delay-a-JavaScript-function-call-using-JavaScript#:~:text=To%20delay%20a%20function%20call%2C%20use%20setTimeout()%20function.&text=functionname%20%E2%88%92%20The%20function%20name%20for,arguments%20passed%20to%20the%20function)
+  * [Sitepoint](https://www.sitepoint.com/delay-sleep-pause-wait/)
   
-*
 *
 *
 *
