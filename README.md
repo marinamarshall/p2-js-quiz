@@ -196,6 +196,16 @@ The font colour has been set to an off-grey/black colour so that it is less hars
   * [Video 3g](https://www.youtube.com/watch?v=o3MF_JmQxYg)
   * [Video 3h](https://www.youtube.com/watch?v=DFhmNLKwwGw)
 
+* Change option selection colour correct/incorrect
+  * [oreilly.com](https://www.oreilly.com/library/view/javascript-cookbook/9781449390211/ch14.html)
+  * [StackOverflow](https://stackoverflow.com/questions/40380676/javascript-remove-background-color-and-opacity)
+  
+*
+*
+*
+*
+*  
+
 
 ## Deployment
 
