@@ -34,18 +34,21 @@ Build an online quiz that is a fun game/challenge. The target audience is Veteri
 
 ### The Scope Plane
 
-- It is a multiple choice quiz layout, the user must choose one option. The quiz will assess correct and incorrect answers and give the user this feedback.
+* It is a multiple choice quiz layout, the user must choose one option. The quiz will assess correct and incorrect answers and give the user this feedback.
 
-- Potential future releases could include the addition of reasons behind the correct answer being correct and a timer feature so that the user has to manage their time like a real exam. The test could be broken down further into specific modules that the student could choose what to be tested on.
+* Potential future releases:
+ * The addition of reasons behind the correct answer being correct. 
+ * A timer feature so that the user has to manage their time like a real exam. 
+ * The test could be broken down further into specific modules that the student could choose what to be tested on.
 
 ### The Structure Plane
 
 This is a three-page quiz. 
 
-- The homepage will display the button to be clicked to begin the quiz.
+* The homepage will display the button to be clicked to begin the quiz.
 
-- This click will take the user to the game page that will display a question and options in MCQ style. There is an interactive display that counts the questions asked and the amount of correct and incorrect answers.
-- Once the user has completed the game, they will be taken to the end page where they will be given their score and a choice to go back to the homepage or to play again.
+* This click will take the user to the game page that will display a question and options in MCQ style. There is an interactive display that counts the questions asked and the amount of correct and incorrect answers.
+* Once the user has completed the game, they will be taken to the end page where they will be given their score and a choice to go back to the homepage or to play again.
 
 ### The Skeleton Plane
 
