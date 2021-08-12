@@ -101,8 +101,11 @@ Neutral colours are chosen so that the user doesn't get distracted by background
 
    * No errors or warnings detected
 
- * JavaScript
+ * JavaScript was tested using [ES6 Syntax Check](https://www.piliapp.com/syntax-check/es6/)
  
+   * Two errors resolved, missing semi-colon (x2)
+   * No warnings detected
+
 
  ## Bugs Fixed
  ## Further Testing
