@@ -209,9 +209,9 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 * Convert HTML collection to array
 * Update Correct/Incorrect Counter
 * CodeInstitute Student Projects for a better understanding around the topics
-  * []()
-  * []()
-  * []()
+  * [Quizzler-Javascript](https://github.com/Code-Institute-Submissions/Quizzler-Javascript/blob/master/assets/js/script.js)
+  * [MS2-Quiz-Game-1](https://github.com/Code-Institute-Submissions/MS2-Quiz-Game-1/blob/master/assets/js/script.js)
+  * [javascript-quiz](https://github.com/Code-Institute-Submissions/javascript-quiz/blob/main/assets/js/script.js)
 
 
 ## Deployment
