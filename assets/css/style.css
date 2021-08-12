@@ -33,6 +33,7 @@ h1,h2 {
 
 .container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
@@ -50,7 +51,7 @@ h1,h2 {
     border: 1px solid rgb(46, 71, 87);
     border-radius: 0.4rem;
     padding: 1rem;
-    width: 50%;
+    width: 30%;
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
 }
