@@ -17,14 +17,14 @@ Once the quiz is finished, the user is informed of their score and they have a c
 
 ## User Stories
 * First Time Visitor Goals
- *   
- * 
- * 
+ * As a first time visitor, I want to easily understand what the quiz is for.  
+ * As a first time visitor, I want to find the quiz well structured and easy to use.
+ * As a first time visitor, I want to have a good experience that makes me want to come back to the site again.
 
 * Returning Visitor Goals
- * 
- * 
- * 
+ * As a returning visitor I want to see what updates there are
+ * As a returning visitor I want to see more questions and topics to choose from
+ * As a returning visitor I want to be tested on specific knowledge
 
 ## User Experience (UX)
 
