@@ -120,7 +120,19 @@ The font colour has been set to an off-grey/black colour so that it is less hars
   * [ColorSpace](https://mycolor.space/?hex=%23AFDCC5&sub=1)
   * [Color Hunt](https://colorhunt.co/)
   * [Coolors](https://coolors.co/231f30-5b525a-8f818d-c2d8d7-4a6767)
-  
+
+* CSS Flexbox
+  * [FreeCodeCamp](https://www.freecodecamp.org/news/learn-css-flexbox/)
+* Breakpoints
+  * [Microsoft](https://docs.microsoft.com/en-us/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design)
+  * [FreeCodeCamp - Media Quiries/Breakpoints](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
+* Extra Reading
+  * [Sitepoint - arrow functions](https://www.sitepoint.com/javascript-arrow-functions/)
+  * [Difference between universal selector and root pseudo class](https://teamtreehouse.com/community/what-is-the-difference-between-and-root-functionalities)
+  * [MDN - Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+*
+*  
+
 
 ## Testing and Bugs
  * HTML was tested using [W3C Markup Validation Service](https://validator.w3.org/)
