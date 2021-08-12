@@ -109,6 +109,12 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 
 ## Credits
 ### Acknowledgements
+* My mentor Chris for his support and motivation
+* Tutor support, Sean at CodeInstitute for his help and feedback
+* CodeInstitute course content
+* Fellow peers on Slack
+* Stackoverflow for general queries
+
 ### Content and Media
 
 ## Testing and Bugs
