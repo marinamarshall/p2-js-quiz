@@ -74,19 +74,26 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 ## Technologies Used
 
 ### Languages used
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript ES6
 
 ### Frameworks, Libraries and Programs used
-- Google Developer Tools -
-- Font Awesome -
-- Favicon - 
-- Github -
-- Git -
-- Gitpod -
-- Balsamiq -
-- Hover.css: -
+* Google Developer Tools - Used during the coding process to identify errors in CSS and in JavaScript files
+
+* Font Awesome - The flask icon was imported from FontAwesome to add style to the homepage font
+
+- Favicon - The pawprint favicon adds some small but nice detail to the tab so the user can recognize the tab if they click off of it
+
+- Github - Used to store the project code after being pushed from Git
+
+- Git - Used for version control
+
+- Gitpod - Used to edit code and using the terminal to add and commit code with key messages that were pushed to Github
+
+- Balsamiq - Used to create wireframes for the quiz
+
+- Hover.css: - Used on the link elements and option containers to add interactivity for the user
 
 ## Features
 
