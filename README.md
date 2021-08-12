@@ -78,31 +78,34 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 * CSS3
 * JavaScript ES6
 
-### Frameworks, Libraries and Programs used
+### Frameworks, Libraries and Programmes used
 * Google Developer Tools - Used during the coding process to identify errors in CSS and in JavaScript files
 
 * Font Awesome - The flask icon was imported from FontAwesome to add style to the homepage font
 
-- Favicon - The pawprint favicon adds some small but nice detail to the tab so the user can recognize the tab if they click off of it
+* Favicon - The pawprint favicon adds some small but nice detail to the tab so the user can recognize the tab if they click off of it
 
-- Github - Used to store the project code after being pushed from Git
+* Github - Used to store the project code after being pushed from Git
 
-- Git - Used for version control
+* Git - Used for version control
 
-- Gitpod - Used to edit code and using the terminal to add and commit code with key messages that were pushed to Github
+* Gitpod - Used to edit code and using the terminal to add and commit code with key messages that were pushed to Github
 
-- Balsamiq - Used to create wireframes for the quiz
+* Balsamiq - Used to create wireframes for the quiz
 
-- Hover.css: - Used on the link elements and option containers to add interactivity for the user
+* Hover.css: - Used on the link elements and option containers to add interactivity for the user
 
 ## Features
 
-### "Play Game" Button
-### Options
-### Progress Bar
-### Question Counter
-### Score Area
-### Return Home/Play Again Buttons
+* Responsive on PC, laptop, tablet and phone screens
+
+* Interactive elements:
+  * "Play Game" Button
+  * Options
+  * Progress Bar
+  * Question Counter
+  * Score Area
+  * Return Home/Play Again Buttons
 
 ## Credits
 ### Acknowledgements
