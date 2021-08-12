@@ -210,26 +210,17 @@ let myQuestions = [
         option3: "White coat color",
         answer: 2
     }
-    ];
-
-// Get reference to progress bar elements
-let progressOuterDiv = document.getElementById("progressOuterDiv");
-let progressInnerDiv = document.getElementById("progressInnerDiv");    
+    ];  
 
 // Get reference to questionCounter id
 let questionCounterDisplay = document.getElementById("questionCounter");
 
-// Get reference to quiz container, question, prefixes, options
-let quizContainer = document.getElementById("quiz-container");
+// Get reference to question, prefixes, options
 let question = document.getElementById("question");
-let questionPrefix = document.getElementsByClassName("prefix");
+
 // Options needs to be converted from an HTML collection to an array
 /* https://stackoverflow.com/questions/35969974/foreach-is-not-a-function-error-with-javascript-array */
 let options = Array.from(document.getElementsByClassName("option"));
-
-// Get references to correct and incorrect scores
-let correctScoreDisplay = document.getElementById("correctScore");
-let incorrectScoreDisplay = document.getElementById("incorrectScore");
 
 // Set baseline parameters that game will begin with
 let questionCounter = 0;
