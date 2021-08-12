@@ -98,9 +98,11 @@ Neutral colours are chosen so that the user doesn't get distracted by background
    * Two warnings corrected where blank input was detected 
 
  * CSS was tested using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
- 
+
    * No errors or warnings detected
- - JavaScript
+
+ * JavaScript
+ 
 
  ## Bugs Fixed
  ## Further Testing

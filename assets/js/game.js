@@ -265,7 +265,7 @@ function beginQuiz() {
 function getQuestion() {
     questionCounter++;
     // Display question count out of max questions
-    questionCounterDisplay.innerText = `${questionCounter}/${maxQuestions}`
+    questionCounterDisplay.innerText = `${questionCounter}/${maxQuestions}`;
 
     if(questionCounter > maxQuestions || availableQuestions.length == 0) {
         localStorage.setItem("mostRecentScore", score);
@@ -282,7 +282,7 @@ function getQuestion() {
         options.forEach(option => {
             const number = option.dataset["number"];
             option.innerText = currentQuestion["option" + number];
-        })
+        });
 
         // Ensure to remove question asked so it won't be repeated
         availableQuestions.splice(questionNumber, 1);
@@ -333,7 +333,7 @@ options.forEach(option => {
         increaseProgressBar();
 
     });
-})
+});
 
 /**
  * This function will update the progress bar as the user moves through the quiz
