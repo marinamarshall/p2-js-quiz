@@ -71,6 +71,14 @@ h3 {
     margin-left: 1rem;
 }
 
+#correct-score {
+    color: green;
+}
+
+#incorrect-score {
+    color: red;
+}
+
 #letUserKnowInteractively {
     display: flex;
     justify-content: space-evenly;
@@ -101,4 +109,8 @@ h3 {
     padding-top: 2rem;
     font-size: 2rem;
     max-width: 80%;
+}
+
+#quizContainer {
+    max-height: 621px;
 }
