@@ -71,6 +71,10 @@ h3 {
     margin-left: 1rem;
 }
 
+#question {
+    margin:3rem 0 3rem 2rem;
+}
+
 #correct-score {
     color: green;
 }
