@@ -92,7 +92,8 @@ Neutral colours are chosen so that the user doesn't get distracted by background
 ### Content and Media
 
 ## Testing and Bugs
- * HTML
+ * HTML was tested using [W3C Markup Validation Service](https://validator.w3.org/)
+
   * No errors detected.
   * Two warnings corrected where blank input was detected 
 
