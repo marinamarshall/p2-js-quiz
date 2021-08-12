@@ -107,7 +107,43 @@ The font colour has been set to an off-grey/black colour so that it is less hars
   * Score Area
   * Return Home/Play Again Buttons
 
-## Credits
+  ## Testing and Bugs
+ * HTML was tested using [W3C Markup Validation Service](https://validator.w3.org/)
+
+   * No errors detected.
+   * Two warnings corrected where blank input was detected 
+
+ * CSS was tested using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+   * No errors or warnings detected
+
+ * JavaScript was tested using [ES6 Syntax Check](https://www.piliapp.com/syntax-check/es6/)
+
+   * Two errors resolved, missing semi-colon (x2)
+   * No warnings detected
+
+
+ ## Bugs Fixed
+
+ * Navigating between pages when different links were clicked was solved by my mentor Chris
+
+ * localStorage issue solved with the help of Sean, Tutor at CodeInstitute
+
+ ## Further Testing
+### Screen Sizes
+ * Desktop
+ * Laptop
+ * iPad
+ * iPhone 6/7/8
+ * iPhone 5/SE
+
+ ### Web Browsers Used
+ * Google Chrome
+ * Safari
+ * Microsoft Edge
+ * Mozilla Firefox
+
+ ## Credits
 ### Acknowledgements
 * My mentor Chris for his support and motivation
 * Tutor support, Sean at CodeInstitute for his help and feedback
@@ -159,45 +195,7 @@ The font colour has been set to an off-grey/black colour so that it is less hars
   * [Video 3f](https://www.youtube.com/watch?v=4bctmtuZVcM)
   * [Video 3g](https://www.youtube.com/watch?v=o3MF_JmQxYg)
   * [Video 3h](https://www.youtube.com/watch?v=DFhmNLKwwGw)
-  
 
-
-
-## Testing and Bugs
- * HTML was tested using [W3C Markup Validation Service](https://validator.w3.org/)
-
-   * No errors detected.
-   * Two warnings corrected where blank input was detected 
-
- * CSS was tested using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-
-   * No errors or warnings detected
-
- * JavaScript was tested using [ES6 Syntax Check](https://www.piliapp.com/syntax-check/es6/)
-
-   * Two errors resolved, missing semi-colon (x2)
-   * No warnings detected
-
-
- ## Bugs Fixed
-
- * Navigating between pages when different links were clicked was solved by my mentor Chris
-
- * localStorage issue solved with the help of Sean, Tutor at CodeInstitute
-
- ## Further Testing
-### Screen Sizes
- * Desktop
- * Laptop
- * iPad
- * iPhone 6/7/8
- * iPhone 5/SE
-
- ### Web Browsers Used
- * Google Chrome
- * Safari
- * Microsoft Edge
- * Mozilla Firefox
 
 ## Deployment
 
