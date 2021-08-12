@@ -4,7 +4,7 @@
 }
 
 * { 
-    color: #3a3a3a;
+    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -59,14 +59,13 @@ h3 {
     height: 10%;
     padding: 1.5rem;
     color: rgb(255, 255, 255);
-    background-color: rgb(92, 175, 176);
+    background-color: rgb(53, 114, 116);
     border-radius: 0.4rem;
 }
 
 .option {
     width: 100%;
     padding: 1rem;
-    color: #3a3a3a;
 }
 
 .score-display {
@@ -104,7 +103,7 @@ h3 {
 }
 
 #progressInnerDiv {
-    background-color: rgba(92, 175, 176, 0.8);
+    background-color: rgb(53, 114, 116);
     width:10%;
     height:7rem;
 }
