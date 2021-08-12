@@ -175,7 +175,7 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 * Markdown Cheat Sheet
   * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
-*  Design Elements
+* Design Elements
   * [FontAwesome](https://fontawesome.com/v5.15/icons/flask?style=solid)
   * [Favicon](https://favicon.io/emoji-favicons/paw-prints/)
   * [Add Favicon to page](https://www.hostinger.com/tutorials/how-to-add-favicon-to-website)
@@ -221,7 +221,7 @@ The font colour has been set to an off-grey/black colour so that it is less hars
   * [StackOverflow](https://stackoverflow.com/questions/35969974/foreach-is-not-a-function-error-with-javascript-array)
 
 * Update Correct/Incorrect Counter
-  * [Updating the Scores - CI](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+2021_T1/courseware/2d651bf3f23e48aeb9b9218871912b2e/8775beaed6ed403d92318845af971b30/?child=first)
+  * [Updating the Scores - CodeInstitute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+2021_T1/courseware/2d651bf3f23e48aeb9b9218871912b2e/8775beaed6ed403d92318845af971b30/?child=first)
 * CodeInstitute Student Projects for a better understanding around the topics
   * [Quizzler-Javascript](https://github.com/Code-Institute-Submissions/Quizzler-Javascript/blob/master/assets/js/script.js)
   * [MS2-Quiz-Game-1](https://github.com/Code-Institute-Submissions/MS2-Quiz-Game-1/blob/master/assets/js/script.js)
