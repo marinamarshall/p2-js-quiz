@@ -134,6 +134,11 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 
 
  ## Bugs Fixed
+
+ * Navigating between pages when different links were clicked was solved by my mentor Chris
+
+ * localStorage issue solved with the help of Sean, Tutor at CodeInstitute
+
  ## Further Testing
 ### Screen Sizes
  * Desktop
@@ -145,7 +150,7 @@ The font colour has been set to an off-grey/black colour so that it is less hars
  ### Web Browsers Used
  * Google Chrome
  * Safari
- * Internet Explorer
+ * Microsoft Edge
  * Mozilla Firefox
 
 ## Deployment
