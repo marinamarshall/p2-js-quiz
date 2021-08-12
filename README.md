@@ -142,7 +142,11 @@ The font colour has been set to an off-grey/black colour so that it is less hars
  * iPhone 6/7/8
  * iPhone 5/SE
 
- ###
+ ### Web Browsers Used
+ * Google Chrome
+ * Safari
+ * Internet Explorer
+ * Mozilla Firefox
 
 ## Deployment
 
