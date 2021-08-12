@@ -135,6 +135,14 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 
  ## Bugs Fixed
  ## Further Testing
+### Screen Sizes
+ * Desktop
+ * Laptop
+ * iPad
+ * iPhone 6/7/8
+ * iPhone 5/SE
+
+ ###
 
 ## Deployment
 
