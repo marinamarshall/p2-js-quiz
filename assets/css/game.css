@@ -119,7 +119,7 @@ h3 {
     max-height: 1000px;
 }
 
-/* https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/ */
+
 
 /* Phones */
 @media screen and (max-width: 480px) {
