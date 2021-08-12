@@ -166,6 +166,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * Breakpoints
   * [Microsoft](https://docs.microsoft.com/en-us/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design)
   * [FreeCodeCamp - Media Quiries/Breakpoints](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/)
+  * [W3Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 * Extra Reading
   * [Sitepoint - arrow functions](https://www.sitepoint.com/javascript-arrow-functions/)
@@ -213,6 +214,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * [StackOverflow](https://stackoverflow.com/questions/35969974/foreach-is-not-a-function-error-with-javascript-array)
 
 * Update Correct/Incorrect Counter
+  * [Updating the Scores - CI](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+2021_T1/courseware/2d651bf3f23e48aeb9b9218871912b2e/8775beaed6ed403d92318845af971b30/?child=first)
 * CodeInstitute Student Projects for a better understanding around the topics
   * [Quizzler-Javascript](https://github.com/Code-Institute-Submissions/Quizzler-Javascript/blob/master/assets/js/script.js)
   * [MS2-Quiz-Game-1](https://github.com/Code-Institute-Submissions/MS2-Quiz-Game-1/blob/master/assets/js/script.js)
