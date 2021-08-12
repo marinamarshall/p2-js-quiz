@@ -116,6 +116,11 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 * Stackoverflow for general queries
 
 ### Content and Media
+* Colour Scheme:
+  * [ColorSpace](https://mycolor.space/?hex=%23AFDCC5&sub=1)
+  * [Color Hunt](https://colorhunt.co/)
+  * [Coolors](https://coolors.co/231f30-5b525a-8f818d-c2d8d7-4a6767)
+  
 
 ## Testing and Bugs
  * HTML was tested using [W3C Markup Validation Service](https://validator.w3.org/)
