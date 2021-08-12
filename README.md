@@ -122,8 +122,15 @@ The font colour has been set to an off-grey/black colour so that it is less hars
    * Two errors resolved, missing semi-colon (x2)
    * No warnings detected
 
+ * JavaScript was tested again through recommended JSHint
+   * [JSHint](https://jshint.com/)
+   * Six unused variables were removed after detection
+   * Twenty-five warnings related to ES6 were detected   
+
 
  ## Bugs Fixed
+
+ * Javascript unused variables (x6) detected in JSHint were removed
 
  * Navigating between pages when different links were clicked was solved by my mentor Chris
 
