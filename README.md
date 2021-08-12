@@ -159,6 +159,9 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 
 * CSS Flexbox
   * [FreeCodeCamp](https://www.freecodecamp.org/news/learn-css-flexbox/)
+  * [Youtube tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=tXIhdp5R7sc)
+  * [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 * Breakpoints
   * [Microsoft](https://docs.microsoft.com/en-us/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design)
@@ -207,6 +210,8 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 * Create Progress Bar
 * Create Random Question
 * Convert HTML collection to array
+  * [StackOverflow](https://stackoverflow.com/questions/35969974/foreach-is-not-a-function-error-with-javascript-array)
+
 * Update Correct/Incorrect Counter
 * CodeInstitute Student Projects for a better understanding around the topics
   * [Quizzler-Javascript](https://github.com/Code-Institute-Submissions/Quizzler-Javascript/blob/master/assets/js/script.js)
