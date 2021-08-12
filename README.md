@@ -209,6 +209,11 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * [Sitepoint](https://www.sitepoint.com/delay-sleep-pause-wait/)
 
 * Create Progress Bar
+  * [W3Schools](https://www.w3schools.com/howto/howto_js_progressbar.asp)
+  * [GeeksForGeeks](https://www.geeksforgeeks.org/creating-progress-bar-using-javascript/)
+  * [Youtube](https://www.youtube.com/watch?v=4LBRMSk6PLY)
+  * [StackOverflow](https://stackoverflow.com/questions/50155924/how-to-increment-the-value-of-a-progress-bar-when-press-a-button-javascript/50156098)
+  
 * Create Random Question
   * [StackOverflow](https://stackoverflow.com/questions/43847375/creating-random-questions-and-answers-javascript)
 
