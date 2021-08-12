@@ -94,10 +94,12 @@ Neutral colours are chosen so that the user doesn't get distracted by background
 ## Testing and Bugs
  * HTML was tested using [W3C Markup Validation Service](https://validator.w3.org/)
 
-  * No errors detected.
-  * Two warnings corrected where blank input was detected 
+   * No errors detected.
+   * Two warnings corrected where blank input was detected 
 
- * CSS
+ * CSS was tested using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+ 
+   * No errors or warnings detected
  - JavaScript
 
  ## Bugs Fixed
