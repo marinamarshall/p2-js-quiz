@@ -210,6 +210,8 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 * Create Progress Bar
 * Create Random Question
+  * [StackOverflow](https://stackoverflow.com/questions/43847375/creating-random-questions-and-answers-javascript)
+
 * Convert HTML collection to array
   * [StackOverflow](https://stackoverflow.com/questions/35969974/foreach-is-not-a-function-error-with-javascript-array)
 
