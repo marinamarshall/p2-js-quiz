@@ -1,4 +1,7 @@
 # Simple Minds Veterinary Quiz
+![screenshot](assets/images/homepage-responsive)
+![screenshot](assets/images/game-responsive)
+![screenshot](assets/images/end-responsive)
 
 ## [View the live quiz here](https://marinamarshall.github.io/p2-js-quiz/)
 
@@ -102,7 +105,7 @@ Neutral colours are chosen so that the user doesn't get distracted by background
    * No errors or warnings detected
 
  * JavaScript was tested using [ES6 Syntax Check](https://www.piliapp.com/syntax-check/es6/)
- 
+
    * Two errors resolved, missing semi-colon (x2)
    * No warnings detected
 
