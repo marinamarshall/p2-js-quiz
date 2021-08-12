@@ -130,8 +130,15 @@ The font colour has been set to an off-grey/black colour so that it is less hars
   * [Sitepoint - arrow functions](https://www.sitepoint.com/javascript-arrow-functions/)
   * [Difference between universal selector and root pseudo class](https://teamtreehouse.com/community/what-is-the-difference-between-and-root-functionalities)
   * [MDN - Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-*
-*  
+* Markdown Cheat Sheet
+  * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+  
+*  Design Elements
+  * [FontAwesome](https://fontawesome.com/v5.15/icons/flask?style=solid)
+  * [Favicon](https://favicon.io/emoji-favicons/paw-prints/)
+  * [Add Favicon to page](https://www.hostinger.com/tutorials/how-to-add-favicon-to-website)
+  * [Responsive Design](http://ami.responsivedesign.is/)
+
 
 
 ## Testing and Bugs
