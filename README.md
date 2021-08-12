@@ -203,11 +203,15 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 * Creating delay
   * [Tutorialspoint](https://www.tutorialspoint.com/How-to-delay-a-JavaScript-function-call-using-JavaScript#:~:text=To%20delay%20a%20function%20call%2C%20use%20setTimeout()%20function.&text=functionname%20%E2%88%92%20The%20function%20name%20for,arguments%20passed%20to%20the%20function)
   * [Sitepoint](https://www.sitepoint.com/delay-sleep-pause-wait/)
-  
-*
-*
-*
-*  
+
+* Create Progress Bar
+* Create Random Question
+* Convert HTML collection to array
+* Update Correct/Incorrect Counter
+* CodeInstitute Student Projects for a better understanding around the topics
+  * []()
+  * []()
+  * []()
 
 
 ## Deployment
