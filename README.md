@@ -125,7 +125,10 @@ The font colour has been set to an off-grey/black colour so that it is less hars
  * JavaScript was tested again through recommended JSHint
    * [JSHint](https://jshint.com/)
    * Six unused variables were removed after detection
-   * Twenty-five warnings related to ES6 were detected   
+   * Twenty-five warnings related to ES6 were detected 
+
+ * DevTools Lighthouse
+   * Contrast issue with prefix background - updated green to a darker green    
 
 
  ## Bugs Fixed
