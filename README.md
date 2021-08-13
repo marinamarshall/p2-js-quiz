@@ -76,7 +76,7 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 ### Languages used
 * HTML5
 * CSS3
-* JavaScript ES6
+* JavaScript
 
 ### Frameworks, Libraries and Programmes used
 * Google Developer Tools - Used during the coding process to identify errors in CSS and in JavaScript files
@@ -152,18 +152,25 @@ The font colour has been set to an off-grey/black colour so that it is less hars
  * localStorage issue solved with the help of Sean, Tutor at CodeInstitute
 
  ## Further Testing
-### Screen Sizes
+### Screen Sizes tested and responded as expected with no issues known
  * Desktop
  * Laptop
  * iPad
- * iPhone 6/7/8
- * iPhone 5/SE
+ * iPhone 6/7/8 - 375px
+ * iPhone 5/SE - 320px
 
  ### Web Browsers Used
  * Google Chrome
+ ![screenshot](assets/images/chrome.png)
+
  * Safari
+ ![screenshot](assets/images/safari.png)
+
  * Microsoft Edge
+ ![screenshot](assets/images/microsoftedge.png)
+
  * Mozilla Firefox
+ ![screenshot](assets/images/firefox.png)
 
  ## Credits
 ### Acknowledgements
