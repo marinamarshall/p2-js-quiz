@@ -120,6 +120,7 @@ The font colour has been set to an off-grey/black colour so that it is less hars
  * CSS was tested using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
    * No errors or warnings detected
+
    ![screenshot](assets/images/stylecss-clean.png)
    ![screenshot](assets/images/gamecss-clean.png)
    ![screenshot](assets/images/endcss-clean.png)
@@ -133,7 +134,10 @@ The font colour has been set to an off-grey/black colour so that it is less hars
  * JavaScript was tested again through recommended JSHint
    * [JSHint](https://jshint.com/)
    * Six unused variables were removed after detection
-   * Twenty-five warnings related to ES6 were detected 
+   * Twenty-five warnings related to ES6 were detected
+
+   ![screenshot](assets/images/gamejs-clean.png)
+   ![screenshot](assets/images/endjs-clean.png) 
 
  * DevTools Lighthouse
    * Contrast issue with prefix background - updated green to a darker green    
