@@ -259,10 +259,35 @@ The font colour has been set to an off-grey/black colour so that it is less hars
 
 ## Deployment
 
-1. Go to Github.com.
-2. Select the repository to be deployed.
-3. At the top of the repository on the right hand side, click the settings tab.
-4. Scroll down to the "Github Pages" section and change the source branch to "master".
-5. Click save.
-6. Refresh the page.
-7. Copy the live website link provided.
+Fork and Clone Your Repository
+
+1. On GitHub, go to the selected repositories main page
+2. In the top-right corner, click the Fork button
+3. Go to your fork of the repository
+4. Click  the green download code button
+5. Clone the repository using HTTPS, under "Clone with HTTPS", then click . 
+6. Or, To clone the repository using an SSH key, click Use SSH, then click .
+7. Or, To clone a repository using GitHub CLI, click Use GitHub CLI, then click .
+8. Open the Terminal
+9. Change the current working directory to the location where you want the cloned directory
+10. Type git clone
+11. Then paste the URL you copied earlier
+12. Press Enter
+13. You now have a local clone
+
+Remote Deployment
+1. On GitHub, go to your chosen repository
+2. At the top of the repository on the right hand side, click the settings tab
+3. Scroll down to the "Github Pages" section
+4. Go to the branch drop-down menu and select a publishing source
+5. Change the source branch to "master"
+6. Click Save
+7. Refresh the page.
+8. Copy the live website link provided
+
+Local Deployment
+1. Go to Gitpod
+2. Select the repository to be used and click open
+3. In the terminal, type python3 -m http.server
+4. Click Open Browser
+
