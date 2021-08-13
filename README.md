@@ -120,6 +120,10 @@ The font colour has been set to an off-grey/black colour so that it is less hars
  * CSS was tested using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
    * No errors or warnings detected
+   ![screenshot](assets/images/stylecss-clean.png)
+   ![screenshot](assets/images/gamecss-clean.png)
+   ![screenshot](assets/images/endcss-clean.png)
+
 
  * JavaScript was tested using [ES6 Syntax Check](https://www.piliapp.com/syntax-check/es6/)
 
