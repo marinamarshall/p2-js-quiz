@@ -1,3 +1,4 @@
+// All questions taken from https://www.msdvetmanual.com/pages-with-widgets/quizzes?mode=list
 // Declare myQuestions array
 let myQuestions = [
     {
