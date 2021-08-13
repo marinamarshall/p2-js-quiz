@@ -113,6 +113,10 @@ The font colour has been set to an off-grey/black colour so that it is less hars
    * No errors detected.
    * Two warnings corrected where blank input was detected 
 
+   ![screenshot](assets/images/index-clean.png)
+   ![screenshot](assets/images/game-clean.png)
+   ![screenshot](assets/images/end-clean.png)
+
  * CSS was tested using [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
    * No errors or warnings detected
