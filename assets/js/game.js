@@ -311,7 +311,7 @@ options.forEach(option => {
             // Creating Delay
             // https://www.tutorialspoint.com/How-to-delay-a-JavaScript-function-call-using-JavaScript#:~:text=To%20delay%20a%20function%20call%2C%20use%20setTimeout()%20function.&text=functionname%20%E2%88%92%20The%20function%20name%20for,arguments%20passed%20to%20the%20function
             // https://www.sitepoint.com/delay-sleep-pause-wait/
-            // [Video 3d](https://www.youtube.com/watch?v=_LYxkClHnV0)
+            // https://www.youtube.com/watch?v=_LYxkClHnV0
             setTimeout(getQuestion, 2000);
             setTimeout(removeClass, 2000);
             incrementCorrectScoreDisplay();
@@ -331,7 +331,7 @@ options.forEach(option => {
          * so the next question doesn't have a colour applied
          */
         function removeClass() {
-            /* https://stackoverflow.com/questions/40380676/javascript-remove-background-color-and-opacity. */
+            // https://stackoverflow.com/questions/40380676/javascript-remove-background-color-and-opacity. 
             option.parentNode.setAttribute("style", "background-color: #fffffff");
         }
 
@@ -343,10 +343,10 @@ options.forEach(option => {
 /**
  * This function will update the progress bar as the user moves through the quiz
  */
-/* https://www.w3schools.com/howto/howto_js_progressbar.asp */
-/* https://www.geeksforgeeks.org/creating-progress-bar-using-javascript/ */
-/* https://www.youtube.com/watch?v=4LBRMSk6PLY */
-/* https://stackoverflow.com/questions/50155924/how-to-increment-the-value-of-a-progress-bar-when-press-a-button-javascript/50156098 */
+// https://www.w3schools.com/howto/howto_js_progressbar.asp 
+// https://www.geeksforgeeks.org/creating-progress-bar-using-javascript/ 
+// https://www.youtube.com/watch?v=4LBRMSk6PLY 
+// https://stackoverflow.com/questions/50155924/how-to-increment-the-value-of-a-progress-bar-when-press-a-button-javascript/50156098 
 
 let width = 10;
 function increaseProgressBar() {
@@ -361,7 +361,7 @@ function increaseProgressBar() {
 /**
  * This function increases the element with the id of correctScore
  */
-/* https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+2021_T1/courseware/2d651bf3f23e48aeb9b9218871912b2e/8775beaed6ed403d92318845af971b30/?child=first */
+// https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+2021_T1/courseware/2d651bf3f23e48aeb9b9218871912b2e/8775beaed6ed403d92318845af971b30/?child=first
 function incrementCorrectScoreDisplay() {
     let previousScore = document.getElementById("correctScore").innerText;
     document.getElementById("correctScore").innerText = ++ previousScore;
