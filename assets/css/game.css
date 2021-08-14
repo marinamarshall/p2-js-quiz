@@ -136,11 +136,11 @@ h3 {
     
     h3 {
         font-size: 2rem;
+        max-width: 90%;
         padding: 0;
     }
 
     .question-text > p {
-        margin-right: 0.1rem;
         margin-top: 0.7rem;
     }
 
