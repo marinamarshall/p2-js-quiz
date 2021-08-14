@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=o3MF_JmQxYg)
 // Get reference to element with id finalScore
 const finalScore = document.getElementById("finalScore");
 
